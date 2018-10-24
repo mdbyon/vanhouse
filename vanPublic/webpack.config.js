@@ -12,7 +12,7 @@ module.exports = {
    loader: 'babel-loader',
    exclude: /node_modules/,
    query: {
-    presets: ['babel-preset-es2015', 'babel-preset-es2016', 'babel-preset-es2017', 'react'].map(require.resolve),
+    presets: ['es2015', 'react']
    }
   },
   {
