@@ -47,10 +47,15 @@ header h1{
   color: white;
 }
 
-img{
+img {
   border-radius: 50%;
   width: 35%;
 }
+
+.linked-in img{
+  border-radius:4%;
+}
+
 
 .page-header{
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/background-van.jpg");
@@ -58,7 +63,7 @@ img{
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height:85vh;
+  height:105vh;
 }
 
 nav {
@@ -114,7 +119,7 @@ li {
 
 .scroll-down {
   position: absolute;
-  margin-bottom: 135px;
+  margin-bottom: 50px;
   left: 50%;
   bottom: 10px;
   display: block;
