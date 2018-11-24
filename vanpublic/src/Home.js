@@ -1,5 +1,13 @@
 import React, {Component} from 'react';
+import Typing from 'react-typing-animation';
 
+const AnimatedTypingComponent = () => {
+  return (
+    <Typing speed={50}>
+      <h1>Welcome to Vanhouse</h1>
+    </Typing>
+  )
+}
 
 class Home extends Component {
   constructor(props){
@@ -25,7 +33,7 @@ class Home extends Component {
               <li><a href="#contact">Contact</a></li>
             </ul>
           </nav>
-          <div id="vanhouse-title"><h1>Vanhouse</h1></div>
+          {AnimatedTypingComponent()}
           <div className="scroll-down" onClick={this.scrollToMembers}/>
         </div>
         <div ref={this.membersRef}
