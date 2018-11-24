@@ -1,9 +1,21 @@
-import React from 'react';
+import React, {Component} from 'react';
 
-export const Home = () => {
-  return (
-    <div>
-    <div className="page-header">
+class Home extends Component {
+  constructor(props){
+    super(props);
+    this.membersRef = React.createRef();
+  }
+
+  scrollToMembers = () => {
+    window.scrollTo({
+      top:this.membersRef.current.offsetTop,
+      behavior: "smooth"
+    })
+  }
+  render() {
+    return (
+      <div>
+        <div className="page-header">
           <nav>
             <ul>
               <li><a className="active" href="#home">Home</a></li>
@@ -11,19 +23,29 @@ export const Home = () => {
               <li><a href="#contact">Contact</a></li>
             </ul>
           </nav>
-      <div id="vanhouse-title"><h1>Vanhouse</h1></div>
-    </div>
-    <div className="home-container">
-      <h2>Members</h2>
-      <ul>
-        <li><h3>Jeff Warner</h3></li>
-        <li><h3>Matt Bruzik</h3></li>
-        <li><h3>Paul Gwiazda</h3></li>
-        <li><h3>Matt McLachlan</h3></li>
-        <li><h3>Mike McLachlan</h3></li>
-        <li><h3>Mike Byon</h3></li>
-      </ul>
-    </div>
-    </div>
-  )
+          <div id="vanhouse-title"><h1>Vanhouse</h1></div>
+          <div className="scroll-down" onClick={this.scrollToMembers}/>
+        </div>
+        <div ref={this.membersRef}
+          className="home-container">
+          <h2>Members</h2>
+          <ul className="members-list">
+            <li className="member-item">
+              <h3>Jeff Warner</h3>
+              <img src={require('./img/jeff.jpeg')}/>
+            </li>
+            <li className="member-item">
+              <h3>Matt Bruzik</h3>
+              <img src={require('./img/matt.jpeg')}/>
+            </li>
+            <li className="member-item">
+              <h3>Paul Gwiazda</h3>
+              <img src={require('./img/paul.jpeg')}/>
+            </li>
+          </ul>
+        </div>
+      </div>
+    )
+  }
 }
+export default Home
