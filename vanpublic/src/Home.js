@@ -1,9 +1,10 @@
 import React, {Component} from 'react';
 import Typing from 'react-typing-animation';
+import {Link} from 'react-router-dom';
 
 const AnimatedTypingComponent = () => {
   return (
-    <Typing speed={50}>
+    <Typing speed={70}>
       <h1>Welcome to Vanhouse</h1>
     </Typing>
   )
@@ -13,14 +14,25 @@ class Home extends Component {
   constructor(props){
     super(props);
     this.membersRef = React.createRef();
+
+    this.state={
+      atTopOfScreen: true,
+    }
   }
 
+
   scrollToMembers = () => {
-    window.scrollTo({
-      top:this.membersRef.current.offsetTop,
-      behavior: "smooth"
-    })
+    if(this.state.atTopOfScreen){
+      window.scrollTo({
+        top:this.membersRef.current.offsetTop,
+        behavior: "smooth"
+      })
+      this.setState({atTopOfScreen: false})
+    }
+    window.scrollTo(0,0)
+    this.setState({atTopOfScreen:true})
   }
+
 
   render() {
     return (
@@ -41,16 +53,20 @@ class Home extends Component {
           <h2>Members</h2>
           <ul className="members-list">
             <li className="member-item">
+              <Link to='/jeff_warner'>
+                <img src={require('./img/jeff.jpeg')}/>
+              </Link>
               <h3>Jeff Warner</h3>
-              <img src={require('./img/jeff.jpeg')}/>
             </li>
             <li className="member-item">
+              <Link to='/matt_bruzik'>
+                <img src={require('./img/matt.jpeg')}/>
+              </Link>
               <h3>Matt Bruzik</h3>
-              <img src={require('./img/matt.jpeg')}/>
             </li>
             <li className="member-item">
-              <h3>Paul Gwiazda</h3>
               <img src={require('./img/paul.jpeg')}/>
+              <h3>Paul Gwiazda</h3>
             </li>
           </ul>
         </div>
