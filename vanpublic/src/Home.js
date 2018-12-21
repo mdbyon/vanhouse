@@ -1,6 +1,8 @@
 import React, {Component} from 'react';
 import Typing from 'react-typing-animation';
 import {Link} from 'react-router-dom';
+import Button from "@material-ui/core/Button/Button";
+import {LoginModal} from "./LoginModal";
 
 const AnimatedTypingComponent = () => {
   return (
@@ -17,9 +19,21 @@ class Home extends Component {
 
     this.state={
       atTopOfScreen: true,
+      showModal: false,
     }
   }
 
+  handleModalClick = ()=>{
+    this.setState({showModal: !this.state.showModal})
+  }
+
+  renderModal = () =>{
+    if(this.state.showModal){
+      return(
+        <LoginModal />
+      )
+    }
+  }
 
   scrollToMembers = () => {
     if(this.state.atTopOfScreen){
@@ -69,6 +83,12 @@ class Home extends Component {
               <h3>Paul Gwiazda</h3>
             </li>
           </ul>
+          <div className="modal-button">
+          <Button onClick={this.handleModalClick} />
+          </div>
+        </div>
+        <div className="modal-container">
+          {this.renderModal()}
         </div>
       </div>
     )

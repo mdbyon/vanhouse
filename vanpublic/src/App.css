@@ -99,8 +99,18 @@ nav ul li a:hover {
   text-decoration: none;
 }
 
+.members-list{
+  margin-bottom: 0px;
+}
+
 .member-item {
   width: 35%;
+}
+
+.modal-button{
+  position: relative;
+  top: -364px;
+  left: 213px;
 }
 
 li {
@@ -110,6 +120,7 @@ li {
 
 .home-container{
   margin: 20px;
+  margin-bottom: 0px;
 }
 
 @keyframes App-logo-spin {
@@ -196,4 +207,13 @@ li {
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: orange }
+}
+
+#root{
+  height: 100%;
+}
+
+html,
+body {
+  height: 100%;
 }
