@@ -1,14 +1,17 @@
 .App {
   font-family: 'Raleway', sans-serif;
   text-align: center;
-  background: linear-gradient(to bottom left, #bdc3c7 0%, #2c3e50 100%);
   color: white;
-  min-height: 100vh;
+  height: 100%;
 }
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 10vmin;
+}
+
+.home-wrapper, .router-wrapper{
+  height: inherit;
 }
 
 .App-header {
@@ -32,6 +35,8 @@
 
 body, html {
   margin: 0px;
+  height: 100%;
+  background: linear-gradient(to bottom left, #bdc3c7 0%, #2c3e50 100%);
 }
 
 h1 {
@@ -67,7 +72,8 @@ img {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height:100vh;
+  height:100%;
+  width:100%;
 }
 
 
@@ -104,7 +110,7 @@ nav ul li a:hover {
 }
 
 .member-item {
-  width: 35%;
+  width: 25%;
 }
 
 .modal-button{

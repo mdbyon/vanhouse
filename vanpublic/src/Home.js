@@ -50,7 +50,7 @@ class Home extends Component {
 
   render() {
     return (
-      <div>
+      <div className="home-wrapper">
         <div className="page-header">
           <nav>
             <ul>
@@ -67,20 +67,40 @@ class Home extends Component {
           <h2>Members</h2>
           <ul className="members-list">
             <li className="member-item">
-              <Link to='/jeff_warner'>
-                <img src={require('./img/jeff.jpeg')}/>
-              </Link>
+                <a href={"https://www.linkedin.com/in/jeffrey-warner-0b1b90a6/"}>
+                  <img src={require('./img/jeff.jpeg')} />
+                </a>
               <h3>Jeff Warner</h3>
             </li>
             <li className="member-item">
-              <Link to='/matt_bruzik'>
+              <a href={"https://www.linkedin.com/in/mattbruzik/"}>
                 <img src={require('./img/matt.jpeg')}/>
-              </Link>
+              </a>
               <h3>Matt Bruzik</h3>
             </li>
             <li className="member-item">
               <img src={require('./img/paul.jpeg')}/>
               <h3>Paul Gwiazda</h3>
+            </li>
+            <li className="member-item">
+              <img src={require('./img/josh.jpeg')}/>
+              <h3>Josh DiNoto</h3>
+            </li>
+            <li className="member-item">
+              <img src={require('./img/matt_mclan.jpeg')}/>
+              <h3>Matt McLachlan</h3>
+            </li>
+            <li className="member-item">
+              <img src={require('./img/connor.jpeg')}/>
+              <h3>Connor Jarrett</h3>
+            </li>
+            <li className="member-item">
+              <img src={require('./img/nick.jpeg')}/>
+              <h3>Nick Farrell</h3>
+            </li>
+            <li className="member-item">
+              <img src={require('./img/mike_new.jpeg')}/>
+              <h3>Mike Byon</h3>
             </li>
           </ul>
           <div className="modal-button">

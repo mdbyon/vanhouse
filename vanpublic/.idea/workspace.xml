@@ -2,194 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf636e3d-b0d3-4879-80bc-1069c8e2321f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vanhouse.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/img/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/img/cover.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/img/faces/marc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/img/mask.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/img/new_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/img/reactlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/img/sidebar-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/img/sidebar-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/img/sidebar-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/img/sidebar-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/img/tim_80x80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/assets/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/Documentation/tutorial-components.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/public/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/bg2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/bg3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/bg4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/bg7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/examples/clem-onojegaw.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/examples/clem-onojeghuo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/examples/cynthia-del-rio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/examples/mariya-georgieva.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/examples/olu-eletu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/examples/studio-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/examples/studio-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/examples/studio-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/examples/studio-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/examples/studio-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/faces/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/faces/camp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/faces/card-profile1-square.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/faces/card-profile2-square.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/faces/card-profile4-square.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/faces/card-profile5-square.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/faces/card-profile6-square.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/faces/christian.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/faces/kendall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/faces/marc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/landing-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/landing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/profile-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/img/sign.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/badgeStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/buttonStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/cardBodyStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/cardFooterStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/cardHeaderStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/cardStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/customDropdownStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/customInputStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/customLinearProgressStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/customTabsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/footerStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/headerLinksStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/headerStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/infoStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/navPillsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/paginationStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/parallaxStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/snackbarContentStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/components/typographyStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/customCheckboxRadioSwitch.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/imagesStyles.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/modalStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/popoverStyles.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/tooltipsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/components.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/componentsSections/basicsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/componentsSections/carouselStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/componentsSections/completedStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/componentsSections/downloadStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/componentsSections/exampleStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/componentsSections/javascriptStyles.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/componentsSections/loginStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/componentsSections/navbarsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/componentsSections/notificationsStyles.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/componentsSections/pillsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/componentsSections/tabsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/componentsSections/typographyStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/landingPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/landingPageSections/productStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/landingPageSections/teamStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/landingPageSections/workStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/loginPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/jss/material-kit-react/views/profilePage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/core/_misc.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/core/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/core/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/core/mixins/_colored-shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/core/variables/_bootstrap-material-design-base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/core/variables/_bootstrap-material-design.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/core/variables/_brand.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/core/variables/_colors-map.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/core/variables/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/core/variables/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/core/variables/_shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/core/variables/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/material-kit-react.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/plugins/_plugin-nouislider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/plugins/_plugin-react-datetime.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/assets/scss/plugins/_plugin-react-slick.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Badge/Badge.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Card/Card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Card/CardBody.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Card/CardFooter.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Card/CardHeader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Clearfix/Clearfix.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/CustomButtons/Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/CustomDropdown/CustomDropdown.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/CustomInput/CustomInput.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/CustomLinearProgress/CustomLinearProgress.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/CustomTabs/CustomTabs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Grid/GridContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Grid/GridItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Header/HeaderLinks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/InfoArea/InfoArea.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/NavPills/NavPills.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Pagination/Pagination.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Parallax/Parallax.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Snackbar/SnackbarContent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Typography/Danger.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Typography/Info.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Typography/Muted.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Typography/Primary.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Typography/Quote.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Typography/Small.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Typography/Success.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/components/Typography/Warning.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/routes/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Components.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Sections/SectionBasics.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Sections/SectionCarousel.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Sections/SectionCompletedExamples.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Sections/SectionDownload.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Sections/SectionExamples.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Sections/SectionJavascript.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Sections/SectionLogin.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Sections/SectionNavbars.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Sections/SectionNotifications.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Sections/SectionPills.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Sections/SectionTabs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/Components/Sections/SectionTypography.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/LandingPage/LandingPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/LandingPage/Sections/ProductSection.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/LandingPage/Sections/TeamSection.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/LandingPage/Sections/WorkSection.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/LoginPage/LoginPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../material-kit-react-v1.3.0/src/views/ProfilePage/ProfilePage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VanhouseMembers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/members.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -201,13 +18,14 @@
     <session id="1091785647">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -217,7 +35,7 @@
           <entry key="env" value="2" />
           <entry key="html" value="2" />
           <entry key="jpg" value="1" />
-          <entry key="js" value="6" />
+          <entry key="js" value="8" />
           <entry key="json" value="3" />
           <entry key="lock" value="4" />
           <entry key="md" value="1" />
@@ -230,7 +48,7 @@
           <entry key="HTML" value="2" />
           <entry key="Image" value="1" />
           <entry key="JSON" value="5" />
-          <entry key="JavaScript" value="6" />
+          <entry key="JavaScript" value="8" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="SCSS" value="3" />
@@ -241,7 +59,7 @@
         <counts>
           <entry key="css" value="7" />
           <entry key="html" value="28" />
-          <entry key="js" value="325" />
+          <entry key="js" value="328" />
           <entry key="json" value="8" />
           <entry key="lock" value="2" />
           <entry key="scss" value="1" />
@@ -252,7 +70,7 @@
           <entry key="CSS" value="7" />
           <entry key="HTML" value="28" />
           <entry key="JSON" value="8" />
-          <entry key="JavaScript" value="325" />
+          <entry key="JavaScript" value="328" />
           <entry key="SCSS" value="1" />
           <entry key="yarn.lock" value="2" />
         </counts>
@@ -267,19 +85,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VanhouseMembers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+            <state relative-caret-position="51">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -287,35 +96,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
+        <entry file="file://$PROJECT_DIR$/src/Home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2097">
-              <caret line="125" selection-start-line="125" selection-end-line="125" />
+            <state relative-caret-position="174">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
               <folding>
-                <element signature="e#2991#2997#1" expanded="true" />
-                <element signature="e#3150#3156#1" expanded="true" />
-                <element signature="e#3314#3320#1" expanded="true" />
-                <element signature="e#3508#3514#0" expanded="true" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.babelrc">
+        <entry file="file://$PROJECT_DIR$/src/JeffWarner.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Profile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -357,6 +166,8 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/styles/scss/_call-to-action.scss" />
         <option value="$PROJECT_DIR$/styles/members.css" />
+        <option value="$PROJECT_DIR$/src/Profile.js" />
+        <option value="$PROJECT_DIR$/src/Home.js" />
       </list>
     </option>
   </component>
@@ -374,7 +185,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="41" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -386,15 +197,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="vanpublic" type="b2602c69:ProjectViewProjectNode" />
               <item name="vanpublic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vanpublic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vanpublic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vanpublic" type="b2602c69:ProjectViewProjectNode" />
@@ -408,12 +221,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541877657179" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545701627519" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -460,17 +276,27 @@
       <workItem from="1541473828171" duration="283000" />
       <workItem from="1541474395658" duration="2667000" />
       <workItem from="1541877150702" duration="438000" />
+      <workItem from="1550443073973" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8923000" />
+    <option name="totallyTimeSpent" value="10408000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16881259" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -484,15 +310,15 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32780612" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.55078125" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32867134" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3294271" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32867134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -509,33 +335,45 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/img/van.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.eslintrc.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/van.jpg" />
+    <entry file="file://$PROJECT_DIR$/.eslintrc.json" />
+    <entry file="file://$PROJECT_DIR$/.env" />
     <entry file="file://$PROJECT_DIR$/webpack.config.js" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="493">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -556,82 +394,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css" />
-    <entry file="file://$PROJECT_DIR$/styles/members.css">
+    <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="519">
+          <caret line="112" column="14" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VanhouseMembers.js">
+    <entry file="file://$PROJECT_DIR$/styles/members.css" />
+    <entry file="file://$PROJECT_DIR$/src/VanhouseMembers.js" />
+    <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc" />
+    <entry file="file://$PROJECT_DIR$/styles/scss/_call-to-action.scss" />
+    <entry file="file://$PROJECT_DIR$/styles/scss/_variables.scss" />
+    <entry file="file://$PROJECT_DIR$/styles/scss/_footer.scss" />
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="990" selection-start-line="990" selection-end-line="990" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginModal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+        <state relative-caret-position="51">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.css">
+    <entry file="file://$PROJECT_DIR$/src/JeffWarner.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/scss/_call-to-action.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/scss/_footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yarn.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2097">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        <state relative-caret-position="119">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
-            <element signature="e#2991#2997#1" expanded="true" />
-            <element signature="e#3150#3156#1" expanded="true" />
-            <element signature="e#3314#3320#1" expanded="true" />
-            <element signature="e#3508#3514#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Profile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -12,7 +12,7 @@ class App extends Component {
     return (
       <div className="App">
           <Router onUpdate={() => window.scrollTo(0, 0)}>
-            <div>
+            <div className="router-wrapper">
               <Route path="/" exact component={Home} />
               <Route path="/about/" component={About} />
               <Route path="/users/" component={Users} />
