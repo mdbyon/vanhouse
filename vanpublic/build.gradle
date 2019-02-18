@@ -1,23 +1,30 @@
-plugins {
-	id 'org.springframework.boot' version '2.1.3.RELEASE'
-	id 'java'
+buildscript {
+	repositories {
+		mavenCentral()
+	}
+	dependencies {
+		classpath("org.springframework.boot:spring-boot-gradle-plugin:2.0.5.RELEASE")
+	}
 }
 
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 
-group = 'org.vanhouse'
-version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '1.8'
+bootJar {
+	mainClassName = 'org.vanhouse.van.VanApplication'
+}
 
 repositories {
 	mavenCentral()
 }
 
-dependencies {
-	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
-	implementation 'org.springframework.boot:spring-boot-starter-security'
-	testImplementation 'org.springframework.boot:spring-boot-starter-test'
-	testImplementation 'org.springframework.security:spring-security-test'
-	testCompile group: 'com.h2database', name: 'h2', version: '1.3.148'
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
 
+dependencies {
+	compile("org.springframework.boot:spring-boot-starter-web")
+	testCompile("junit:junit")
 }
