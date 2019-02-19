@@ -11,6 +11,7 @@ public class Post {
     private List<User> likes;
     private String description;
     private Instant timestamp;
+    private List<Attachment> attachments;
 
 
 }
